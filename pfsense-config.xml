@@ -78,7 +78,7 @@
 		<language>en_US</language>
 		<dns1gw>none</dns1gw>
 		<dns1host></dns1host>
-		<dnsserver>192.168.222.2</dnsserver>
+		<dnsserver>1.1.1.1</dnsserver>
 	</system>
 	<interfaces>
 		<wan>
