@@ -1,6 +1,8 @@
 # pfsense-vagrant
 Contains example vagrant file and pfsense config file to bring up my vagrant virtualbox pfsense machine.
 
+Box can be found here: https://app.vagrantup.com/ksklareski/boxes/pfsense-ce
+
 Usernames for webconfig are admin/vagrant and vagrant/vagrant. Obviously this is not secure for production.
 
 Vagrant file copies config.xml to the pfsense box for provisioning. Customized that file as you see fit, or create a config that you need on a running pfsense box and export it.
