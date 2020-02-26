@@ -5,7 +5,7 @@ Box can be found here: https://app.vagrantup.com/ksklareski/boxes/pfsense-ce
 
 Usernames for webconfig are admin/vagrant and vagrant/vagrant. Obviously this is not secure for production.
 
-Vagrant file copies config.xml to the pfsense box for provisioning. Customized that file as you see fit, or create a config that you need on a running pfsense box and export it.
+Vagrant file copies config.xml to the pfsense box for provisioning. Customize that file as you see fit, or create a config that you need on a running pfsense box and export it.
 
 Sometimes the box will lock up and not be accessible via webgui or ssh. A reload seems to fix that for me.
 
